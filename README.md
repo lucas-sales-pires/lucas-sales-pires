@@ -19,7 +19,7 @@
     <img text-align="center" alt="jquery" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img text-align="center" alt="excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-   Descobri na tecnologia uma fonte de motivação diária e oportunidades constantes para aprender algo novo.
+   ## Descobri na tecnologia uma fonte de motivação diária e oportunidades constantes para aprender algo novo.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-sales-pires&hide_progress=true)
 
 
