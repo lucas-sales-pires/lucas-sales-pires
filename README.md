@@ -1,4 +1,4 @@
-### Olá Eu sou o Lucas Sales 🫡
+### Olá Eu sou o Lucas Sales 🫡🫡
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@programandocurto)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sales-pires-763383197/)
