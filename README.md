@@ -29,6 +29,8 @@
     <img text-align="center" alt="jest" src = "https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
     <img text-align="center" alt="excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img text-align="center" alt="angular" src = "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+    <img text-align="center" alt="flutter" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    
 
     
 
