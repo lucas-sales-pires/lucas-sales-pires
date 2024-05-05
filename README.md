@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-sales-pires&show_icons=true&theme=merko)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que tenho ou tive contato.
 
 <div style = display:inline_block><br/>
     <img text-align="center" alt="python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
